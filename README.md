@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, developing etc...
 - 🌱 I’m currently learning B.Tech 2nd year 
 - specialization:computer science and engineering
-- 💞️ I’m looking to collaborate on github
+- 💞️ I’m looking to collaborate on https://github.com/Adisharmaa/Adisharmaa.git
 - 📫 How to reach me mail id:adityakumarsharma@ptuniv.edu.in
 
 <!---
